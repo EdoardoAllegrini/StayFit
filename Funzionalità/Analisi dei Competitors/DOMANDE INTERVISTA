@@ -1,0 +1,98 @@
+APP PER LA DIETA FUZNIONALITA'
+- data dal dietologo (da un codice da inserire nell'app) 
+che può monitarti in tempo reale
+- funzionalità:
+	- scheda con i propri dati fisici che si carica in automatico 
+	dopo la visita dal dietologo (comprende anche eventuali 
+	intolleranze e/o esigenze)
+	- inserimento del periodo di sonno
+	- inserimento ogni tot di progessi a livello di peso, 
+	stabilendo degli obiettivi
+	- visualizza dieta assegnata
+		- visualizza ogni macro/micro dell'alimento nella dieta
+	- visualizza kcal consumate al giorno su quelle tot disponibili
+	- inserimento dei cibi (pasto x pasto) e dei lt d'acqua bevuti
+	- notifiche dell'app per ricordarti pasti
+	- possibilità di scannerizzare i prodotti comprati per monitorne
+	la scadenza 
+	- traccia ciò che resta in frigo dopo un pasto 
+	- possibilità di confrontare i cibi per la dieta con altri 
+	prodotti presenti al market (costo e kcal)
+		- possibilità di confrontare micro/macro
+	- in base alla dieta l'app prepara il carrello da sola e chiede solo conferma dell'ordine che arriva diretto a casa
+	- ricette dietetiche
+
+	- SEZIONE NUTRIZIONE SPORTIVA:
+		- possibile visualizzare la scheda per la palestra data dal 
+		dietologo
+		- integratori da prendere
+		- funzione che permette di vedere km corsi e kcal bruciate
+	
+
+
+ANALISI DEI COMPETITORS 
+
+- Abbonamenti poco economici
+	- Maggior parte delle funzionalità a pagamento
+- Ricette consigliate poco pratiche per chi ha poco tempo ha disposizione
+	- Piatti consigliati molto complessi
+- Il digiuno ad intermittenza sconsigliato
+- Pericolo per chi soffre di disturbi alimentari
+- Poca flessibilità nel cambio di un pasto assegnato dalla dieta +++++
+- Impossibilità di sincronizzare più dispositivi con lo stesso profilo
+
+
+
+DOMANDE INTERVISTA
+
+- Ha mai seguito una dieta?
+	- (Se SI') 
+		- Per quale motivo?
+		- Che tipo di dieta ha seguito?
+		- E' riuscita a seguirla in modo costante?
+		- Si ricorda quanto è durata?
+		- Alla fine è riuscita a raggiungere il suo obiettivo?
+
+		- Integrava la dieta allo sport?
+			- (Se SI') 
+				- Che tipo di sport?
+				- Ha mai fatto uso di integratori?
+
+		- Ogni quanto faceva un controllo dal nutrizionista?
+			- Avrebbe preferito la possibilità di essere monitorata gg x gg dal suo nutrizionista?
+		- Aveva modo di monitorare le calorie che consumava ogni giorno?
+		- Ha mai utilizzato un app per la gestione della dieta?
+		- Ha mai provato ricette dietetiche?
+		- Aveva dei pasti liberi a settimana?
+		- Ha mai utilizzato un diario alimentare?
+		- Nella dieta erano presenti alimenti non di suo gradimento?
+		- Dopo quanto tempo ha iniziato a vedere i primi risultati?
+		- Ha mai pensato di smettere il percorso intrapreso?
+				
+	- (Se NO) 
+		- Per quale motivo?
+
+
+- Legge i componenti di un cibo prima di acquistarlo?
+- Sceglie un cibo in base a qualche criterio?
+- Sa circa quanti litri di acqua al giorno beve?
+- Ha mai usato Forum di nutrizione?
+- Ha mai usato barrette dietetiche in sostituzione dei pasti?
+- Soffre di intolleranze?
+	-(Se SI')
+		- Che tipo?
+- Le piace passare del tempo in cucina per sperimentare nuove ricette?
+- Ha mai preparato ricette che ha trovato su internet?
+- Quante volte ordina il cibo a casa a settimana? (1/2 vv, 2/4 vv, quasi tutti i giorni)
+- Ha mai ordinato la spesa a casa?
+- Le capita di dover buttare dei prodotti perchè scaduti?
+- Pesa le quantità di cibo che prepara?
+- Usa una bilancia per monitorare il suo peso a casa?
+	- (Se SI')
+		- Riesce a dirmi con che frequenza?
+- Quanti pasti fa al giorno?
+	- Le capita di dover saltare dei pasti durante la giornata?
+		- (Se SI')
+			- Per quale motivo?
+
+
