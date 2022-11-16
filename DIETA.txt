@@ -59,7 +59,7 @@ DOMANDE INTERVISTA
 				- Ha mai fatto uso di integratori?
 
 		- Ogni quanto faceva un controllo dal nutrizionista?
-			- Avrebbe preferito la possibilità di essere monitorata gg x gg dal suo nutrizionista?
+			- Ti sarebbe stato utile avere la possibilità di essere monitorata gg x gg dal suo nutrizionista?
 		- Aveva modo di monitorare le calorie che consumava ogni giorno?
 		- Ha mai utilizzato un app per la gestione della dieta?
 		- Ha mai provato ricette dietetiche?
@@ -86,6 +86,7 @@ DOMANDE INTERVISTA
 - Quante volte ordina il cibo a casa a settimana? (1/2 vv, 2/4 vv, quasi tutti i giorni)
 - Ha mai ordinato la spesa a casa?
 - Le capita di dover buttare dei prodotti perchè scaduti?
+	- Ti sarebbe utile un promemoria che ti ricorda quando un cibo sta per scadere?
 - Pesa le quantità di cibo che prepara?
 - Usa una bilancia per monitorare il suo peso a casa?
 	- (Se SI')
@@ -94,6 +95,4 @@ DOMANDE INTERVISTA
 	- Le capita di dover saltare dei pasti durante la giornata?
 		- (Se SI')
 			- Per quale motivo?
-
-
 
