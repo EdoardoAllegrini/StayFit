@@ -37,76 +37,66 @@ ANALISI DEI COMPETITORS
 
 DOMANDE INTERVISTA (circa 35)
 
-- Ha mai seguito una dieta?
+EXTRA 1: Quanti anni ha?
+EXTRA 2: Sesso?
+EXTRA 3: Stato civile?
+EXTRA 4: Occupazione?
 
-	- (Se NO) 
-		- Per quale motivo?
+1. Ha mai seguito una dieta?
 
-	- (Se SI') 
-		- Che tipo di dieta ha seguito?
+	- (NO) 
+		1.1. Per quale motivo?
 
-		- E' riuscita a seguirla in modo costante?
-			- (Se NO) 
-				- Per quale motivo?
+	- (SI') 
+		1.2. Che tipo di dieta ha seguito?
 
-		- Ogni quanto faceva un controllo dal nutrizionista?
+		1.3. E' riuscita a seguirla in modo costante?
+			(NO)  1.3.1. Per quale motivo?
 
-		- la frequenza dei controlli le risultava adeguata?  
-			- (Se no) 
-				- per quale motivo?
+		1.4. Ogni quanto faceva un controllo dal nutrizionista?
 
-		- Aveva modo di monitorare le calorie che consumava ogni giorno?
-			- (Se si) 
-				- in che modo?
+		1.5. La frequenza dei controlli le risultava adeguata?  
+			(NO)  1.5.1. Per quale motivo?
 
-		- Ha mai utilizzato un app per la gestione della dieta?
-			- (se si)
-				- come si è trovato?
-					- per quale motivo?
-			- per quale motivo?
+		1.6. Aveva modo di monitorare le calorie che consumava ogni giorno?
+			(SI)  1.6.1. In che modo?
 
-		- Ha mai provato ricette dietetiche?
-			- (se si)
-				- da dove le prendeva?
+		1.7. Ha mai utilizzato un app per la gestione della dieta?
+			(SI)  1.7.1. Come si è trovato?
+					 1.7.1.1. Per quale motivo?
+			1.7.2. Per quale motivo?
 
-		- Ha mai utilizzato un diario alimentare?
-			- (Se no) 
-				- per quale motivo?
+		1.8. Ha mai provato ricette dietetiche?
+			(SI)  1.8.1. Da dove le prendeva?
+			(NO)  1.8.2. Per quale motivo
 
-- Quanti pasti fa al giorno?
-	- Le capita di dover saltare dei pasti durante la giornata?
-		- (Se Si)
-			- Per quale motivo?
+		1.9. Ha mai utilizzato un diario alimentare?
+			(NO)  1.9.1. Per quale motivo?
 
-////////////////
+2. Quanti pasti fa al giorno?
+	2.1. Le capita di dover saltare dei pasti durante la giornata?
+		(SI) 2.1.1.  Per quale motivo?
 
-- Legge i componenti di un cibo prima di acquistarlo?
-- Le piace passare del tempo in cucina per sperimentare nuove ricette?
-- Le capita di dover buttare dei prodotti perchè scaduti?
-- bevi regolarmente durante la giornata?
-	- (se no)
-		- per quale motivo?
+3. Legge i componenti di un cibo prima di acquistarlo?
+4. Le piace passare del tempo in cucina per sperimentare nuove ricette?
+5. Le capita di dover buttare dei prodotti perchè scaduti?
 
-///////////////
+6. Beve regolarmente durante la giornata?
+	(NO)  6.1 Per quale motivo?
 
-- fai la spesa tu stesso?
 
-	- (Se no)
-		- per quale motivo?
 
-	- sei solito fare pasti abitudinali durante la settimana?
+7. Fa la spesa lei stesso?
+	7.1. (NO) Per quale motivo?
 
-	- l'hai mai ordinata a casa?
-		- (se no)
-			- per quale motivo?
-		- (se si)
-			- quando è sta l'ultima volta?
+	7.2. Solitamente fa dei pasti uguali ogni settimana?
 
-- monitora il ritmo del sonno?
+	7.3. Ha mai ordinato la spesa a casa?
+		(NO)  7.3.1. Per quale motivo?
+		(SI)  7.3.2. Quando è sta l'ultima volta?
 
-	- (se sì)
-		- in che modo?
-		- quante ore dorme a notte in media?
+8. Monitora il ritmo del sonno?
+	(SI)  8.1. In che modo?
+	      8.2. Quante ore dorme a notte in media?
 
-	- (se no)
-		- ti rendi conto di che ora sia prima di addormentarti?
+	(NO)  8.3. Si rende conto di che ora sia prima di addormentarsi?
