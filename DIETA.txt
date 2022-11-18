@@ -89,7 +89,7 @@ EXTRA 4: Occupazione?
 7. Fa la spesa lei stesso?
 	7.1. (NO) Per quale motivo?
 
-	7.2. Solitamente fa dei pasti uguali ogni settimana?
+	7.2. Ci sono degli alimenti che mangia ogni settimana?
 
 	7.3. Ha mai ordinato la spesa a casa?
 		(NO)  7.3.1. Per quale motivo?
