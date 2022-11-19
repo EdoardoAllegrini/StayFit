@@ -79,7 +79,7 @@ EXTRA 4: Occupazione?
 
 3. Legge i componenti di un cibo prima di acquistarlo?
 4. Le piace passare del tempo in cucina per sperimentare nuove ricette?
-5. Le capita di dover buttare dei prodotti perchè scaduti?
+5. Le capita di dover gettare dei prodotti perchè scaduti?
 
 6. Beve regolarmente durante la giornata?
 	(NO)  6.1 Per quale motivo?
