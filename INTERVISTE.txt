@@ -1,0 +1,555 @@
+INTERVISTA MODELLO
+
+EXTRA 1: 
+EXTRA 2: 
+EXTRA 3: 
+EXTRA 4: 
+
+1. 
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. 
+
+		1.3. 
+			(NO)  1.3.1. 
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+
+		1.6. 
+			(SI)  1.6.1. 
+
+		1.7. 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. 
+			(SI)  1.8.1.
+			(NO)  1.8.2. 
+
+		1.9. 
+			(NO)  1.9.1. 
+
+2. 
+	2.1. 
+		(SI) 2.1.1.  
+
+
+
+3. 
+4.
+5.
+
+6. 
+	(NO)  6.1. 
+
+
+
+7.
+
+	7.1. (NO) 
+
+	7.2. 
+
+	7.3. 
+		(NO)  7.3.1. 
+		(SI)  7.3.2. 
+
+8. 
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. 
+
+
+INTERVISTA 1
+
+EXTRA 1: 52
+EXTRA 2: F
+EXTRA 3: Separato
+EXTRA 4: Impiegato
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Dimagrante
+
+		1.3. Abbastanza
+			(NO)  1.3.1. 
+
+		1.4. No
+			(SI) 1.4.1.
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+
+		1.6. No
+			(SI)  1.6.1. 
+
+		1.7. No
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. Ne avevo una già pronta (dieta), ho seguito quella
+
+		1.8. Sì
+			(SI)  1.8.1. Conoscenze, passa parola
+			(NO)  1.8.2. 
+
+		1.9. Sì
+			(NO)  1.9.1. 
+
+2. 4 pasti
+	2.1. Qualche volta, merenda o cena
+		(SI) 2.1.1. Sono al lavoro o mancanza di appetito
+
+3. No
+4. Poco
+5. Raramente
+
+6. Sì
+	(NO)  6.1. 
+
+
+
+7. Sì
+
+	7.1. (NO) 
+
+	7.2. No
+
+	7.3. No
+		(NO)  7.3.1. Non ho mai avuto il bisogno
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Sì
+
+
+
+
+INTERVISTA 2
+
+
+EXTRA 1: 53
+EXTRA 2: M
+EXTRA 3: Separato
+EXTRA 4: Impiegato
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Dimagrante
+
+		1.3. Sì
+			(NO)  1.3.1. 
+
+		1.4. Sì
+			(SI) 1.4.1. Ogni 15 gg
+			(SI) 1.4.2. Sì
+				(NO) 1.4.2.1.
+
+		1.6. No
+			(SI)  1.6.1. 
+
+		1.7. No
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. Non esisteva ai tempi
+
+		1.8. Sì
+			(SI)  1.8.1. Internete e dalla nutrizionista
+			(NO)  1.8.2. 
+
+		1.9. No
+			(NO)  1.9.1. Non ne avevo il bisogno
+
+2. 3 pasti
+	2.1. Sì a volte
+		(SI) 2.1.1. Motivi lavorativi  
+
+3. No
+4. Molto
+5. A volte sì
+
+6. Sì
+	(NO)  6.1. 
+
+7. Sì
+
+	7.1. (NO) 
+
+	7.2. No
+
+	7.3. No
+		(NO)  7.3.1. Mi piace farla 
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Non sempre
+
+
+INTERVISTA 3
+
+EXTRA 1: 21
+EXTRA 2: F
+EXTRA 3: Nubile
+EXTRA 4: Studentesssa
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Per dimagrire 
+
+		1.3. No
+			(NO)  1.3.1. Non mi andava
+
+		1.4. Sì
+			(SI) 1.4.1. 1 vv al mese
+			(SI) 1.4.2. No, meglio ogni 2 settimane
+				(NO) 1.4.2.1. Così mi controllava di più
+
+		1.6. No
+			(SI)  1.6.1. 
+
+		1.7. Sì
+			(SI)  1.7.1. Bene
+					   1.7.1.1. C'era uno spazio in cui potevi 
+							 inquadrare il codice a barre dell'alimento
+							 e ti contava automaticamente le kcal
+			1.7.2. 
+
+		1.8. Sì
+			(SI)  1.8.1. Giallo Zafferano (Internet)
+			(NO)  1.8.2. 
+
+		1.9. NO
+			(NO)  1.9.1. Non ho voglia
+
+2. 3 pasti
+	2.1. Sì
+		(SI) 2.1.1. Mi sveglio tardi
+
+3. No
+4. Prima sì, ora no
+5. Sì
+
+6. Sì
+	(NO)  6.1. 
+
+7. No
+
+	7.1. (NO) Non ho tempo 
+
+	7.2. Sì
+
+	7.3. Sì
+		(NO)  7.3.1. 
+		(SI)  7.3.2. Un mese fa
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Sì
+
+
+
+INTERVISTA 4
+
+
+EXTRA 1: 20
+EXTRA 2: M
+EXTRA 3: Celibe
+EXTRA 4: Studente
+
+1. No
+
+	- (NO) 
+		1.1. Allenandomi sempre non ne ho mai avuto bisogno 
+
+	- (SI') 
+		1.2. 
+
+		1.3. 
+			(NO)  1.3.1. 
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+
+		1.6. 
+			(SI)  1.6.1. 
+
+		1.7. 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. 
+			(SI)  1.8.1.
+			(NO)  1.8.2. 
+
+		1.9. 
+			(NO)  1.9.1. 
+
+2. 3 pasti
+	2.1. Sì
+		(SI) 2.1.1. Mi sveglio tardi
+
+3. No
+4. No
+5. Sì
+
+6. Sì
+	(NO)  6.1. 
+
+7. Raramente
+
+	7.1. (NO) Perchè chi solito farla è impegnato
+
+	7.2. Sì
+
+	7.3. No
+		(NO)  7.3.1. Ho il supermercato proprio sotto casa
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Sì
+
+
+
+INTERVISTA 5
+
+
+EXTRA 1: 20
+EXTRA 2: M
+EXTRA 3: Celibe
+EXTRA 4: Studente
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Per mettere massa
+
+		1.3. Sì
+			(NO)  1.3.1. 
+
+		1.4. Sì
+			(SI) 1.4.1. 1 vv al mese
+			(SI) 1.4.2. NO
+				(NO) 1.4.2.1. Perchè eccessiva
+
+		1.6. Non precisamente
+			(SI)  1.6.1. 
+
+		1.7. No
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. Ho tutto cartaceo
+
+		1.8. No
+			(SI)  1.8.1.
+			(NO)  1.8.2. La dieta è per mettere massa non per perdere peso
+
+		1.9. No
+			(NO)  1.9.1. Non mi è stato detto
+
+2. 5 pasti
+	2.1. A volte
+		(SI) 2.1.1. Per università o impegni improvvisi 
+
+3. No
+4. No
+5. Sì
+
+6. Sì
+	(NO)  6.1. 
+
+7. No
+
+	7.1. (NO) Ci vanno i miei genitori
+
+	7.2. Sì
+
+	7.3. No
+		(NO)  7.3.1. Supermercato vicino
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Si
+
+
+
+INTERVISTA 6
+
+
+EXTRA 1: 59
+EXTRA 2: F
+EXTRA 3: Divorziata
+EXTRA 4: Casalinga
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Mediterranea, per perdere peso
+
+		1.3. No
+			(NO)  1.3.1. Molto golosa 
+
+		1.4. Sì
+			(SI) 1.4.1. Ogni 15 gg
+			(SI) 1.4.2. Sì
+				(NO) 1.4.2.1.
+
+		1.6. No
+			(SI)  1.6.1. 
+
+		1.7. No
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. Non esisteva ai tempi
+
+		1.8. No
+			(SI)  1.8.1.
+			(NO)  1.8.2. Perchè mangiavo poco di tutto
+
+		1.9. No
+			(NO)  1.9.1. Perchè mi sembra inutile
+
+2. 2 pasti
+	2.1. Sì
+		(SI) 2.1.1. Per mancanza di tempo
+
+
+3. A volte sì
+4. No
+5. Sì
+
+6. No
+	(NO)  6.1. Me lo dimentico
+
+7. Sì
+
+	7.1. (NO) 
+
+	7.2. Sì
+
+	7.3. No
+		(NO)  7.3.1. Esco tutti i giorni e vado sempre a fare la spesa
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Sì
+
+
+INTERVISTA 7
+
+
+
+EXTRA 1: 21
+EXTRA 2: M
+EXTRA 3: Celibe
+EXTRA 4: Studente
+
+1. Sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Per avere un giusto regime alimentare
+
+		1.3. Sì
+			(NO)  1.3.1. 
+
+		1.4. Sì
+			(SI) 1.4.1. 1 vv al mese
+			(SI) 1.4.2. Sì
+				(NO) 1.4.2.1.
+
+		1.6. NO
+			(SI)  1.6.1. 
+
+		1.7. NO
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. Non sapevo dell'esistenza
+
+		1.8. NO
+			(SI)  1.8.1.
+			(NO)  1.8.2. Non ho mai avuto tempo di cucinarle
+
+		1.9. No
+			(NO)  1.9.1. Non ne ho mai avuto il bisogno
+
+2. 4 pasti
+	2.1. Sì
+		(SI) 2.1.1. Mancanza di tempo 
+
+3. No
+4. No
+5. Sì
+
+6. Abbastanza
+	(NO)  6.1. Dimenticanze
+
+7. A volte
+
+	7.1. (NO) Quando serve poichè non possono gli altri
+
+	7.2. No
+
+	7.3. No
+		(NO)  7.3.1. Preferisco vedere gli alimenti di persone tra gli scaffali
+		(SI)  7.3.2. 
+
+8. No
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. Sì
+
