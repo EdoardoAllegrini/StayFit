@@ -757,7 +757,7 @@ EXTRA 4: studente
 EXTRA 1: 21
 EXTRA 2: M
 EXTRA 3: nubile
-EXTRA 4: disoccupato
+EXTRA 4: studente
 
 1. no
 
@@ -819,3 +819,357 @@ EXTRA 4: disoccupato
 		  8.2. 
 
 	(NO)  8.3. si
+
+(giotal) INTERVISTA 1
+
+EXTRA 1: 21
+EXTRA 2: M
+EXTRA 3: nubile 
+EXTRA 4: studente
+
+1. NO
+
+	- (NO) 
+		1.1. perchè non mi è necessaria
+
+	- (SI') 
+		1.2. 
+
+		1.3. 
+			(NO)  1.3.1. 
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+				
+		1.6. 
+			(SI)  1.6.1. 
+
+		1.7. 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. 
+			(SI)  1.8.1.
+			(NO)  1.8.2. 
+
+		1.9. 
+			(NO)  1.9.1. 
+
+2. Due
+	2.1. 
+		(SI) 2.1.1.  Perchè non ho tempo
+
+
+
+3. no
+4. no
+5. si
+
+6. Si
+	(NO)  6.1 
+
+
+
+7. no
+
+	7.1. (NO) Ci pensano i familiari
+
+	7.2. si
+
+	7.3. no
+		(NO)  7.3.1. ho il supermercato vicino
+		(SI)  7.3.2. 
+
+8. si
+
+	(SI)	  8.1. con lo smartwatch 
+		  8.2. 4
+
+	(NO)  8.3. 
+
+(giotal) INTERVISTA 2
+
+EXTRA 1: 53
+EXTRA 2: M
+EXTRA 3: coniugato
+EXTRA 4: pizzaiolo
+
+1. sì
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. Fatta da me, per mettermi in forma
+
+		1.3. 
+			(NO)  1.3.1. mi sono stancato dopo una settimana
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1. non gli davo molta importanza
+				
+		1.6. no
+			(SI)  1.6.1. 
+
+		1.7. no 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. no
+			(SI)  1.8.1.
+			(NO)  1.8.2. non cerco ricette dietetiche su internet
+
+		1.9. no
+			(NO)  1.9.1. non gli davo molta importanza
+
+2. 3
+	2.1. 
+		(SI) 2.1.1.  lavoro e non ho tempo
+
+
+
+3. si
+4. no, non ho tempo
+5. si
+
+6. si, mi tengo delle bottiglie vicino
+	(NO)  6.1 
+
+
+
+7.si
+
+	7.1. (NO) 
+
+	7.2. si
+
+	7.3. 
+		(NO)  7.3.1. perchè mi piace andarci di persona 
+		(SI)  7.3.2. 
+
+8. si
+
+	(SI)	  8.1. guardando l'orologio
+		  8.2. 7-8
+
+	(NO)  8.3.
+
+
+
+
+(giotal) INTERVISTA 3
+
+EXTRA 1: 53
+EXTRA 2: F
+EXTRA 3: coniugata 
+EXTRA 4: ragioniera
+
+1. 
+
+	- (NO) 
+		1.1. non ne ho mai avuto bisogno
+
+	- (SI') 
+		1.2. 
+
+		1.3. 
+			(NO)  1.3.1. 
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+				
+		1.6. 
+			(SI)  1.6.1. 
+
+		1.7. 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. 
+			(SI)  1.8.1.
+			(NO)  1.8.2. 
+
+		1.9. 
+			(NO)  1.9.1. 
+
+2. 3
+	2.1. 
+		(SI) 2.1.1. perchè pranzo molto tardi 
+
+
+
+3. si
+4. si
+5. si
+
+6. si
+	(NO)  6.1 
+
+
+
+7. si
+
+	7.1. (NO) 
+
+	7.2. si
+
+	7.3. no
+		(NO)  7.3.1. non c'è un supermercato che offre questo servizio
+		(SI)  7.3.2. 
+
+8. si
+
+	(SI)	  8.1. usavo un'app poi ho smesso perchè non funzionava bene
+		  8.2. 7
+
+	(NO)  8.3.
+
+
+(giotal)INTERVISTA 4
+
+EXTRA 1: 21
+EXTRA 2: M
+EXTRA 3: celibe
+EXTRA 4: studente
+
+1. si
+
+	- (NO) 
+		1.1. 
+
+	- (SI') 
+		1.2. sportivo
+
+		1.3. si
+			(NO)  1.3.1. 
+
+		1.4. si
+			(SI) 1.4.1. ogni mese
+			(SI) 1.4.2. si
+				(NO) 1.4.2.1.
+				
+		1.6. si
+			(SI)  1.6.1. seguendo le indicazioni del nutrizionista
+
+		1.7. si
+			(SI)  1.7.1. male
+					   1.7.1.1. ti mette troppo in soggezione "mi sentivo troppo sotto controllo"
+			1.7.2. 
+
+		1.8. si 
+			(SI)  1.8.1. dal nutrizionista
+			(NO)  1.8.2. 
+
+		1.9. si
+			(NO)  1.9.1. 
+
+2. 5-6
+	2.1. si
+		(SI) 2.1.1.  dimenticanza oppure tempo
+
+
+
+3. si
+4. si
+5. di rado
+
+6. no
+	(NO)  6.1 cattiva abitudine
+
+
+
+7. a volte
+
+	7.1. (NO) 
+
+	7.2. si
+
+	7.3. 
+		(NO)  7.3.1. ho il supermercato vicino  non la ordinerei nel caso fosse possibile
+		(SI)  7.3.2. 
+
+8. si
+
+	(SI)	  8.1. contando a mente le ore che dormo
+		  8.2. 5-8
+
+	(NO)  8.3. 
+
+(giotal) INTERVISTA 5
+
+EXTRA 1: 55
+EXTRA 2: M
+EXTRA 3: coniugato
+EXTRA 4: rappresentante
+
+1. No
+
+	- (NO) 
+		1.1. non ne ho mai avuto bisogno
+
+	- (SI') 
+		1.2. 
+
+		1.3. 
+			(NO)  1.3.1. 
+
+		1.4. 
+			(SI) 1.4.1. 
+			(SI) 1.4.2. 
+				(NO) 1.4.2.1.
+				
+		1.6. 
+			(SI)  1.6.1. 
+
+		1.7. 
+			(SI)  1.7.1.
+					   1.7.1.1.
+			1.7.2. 
+
+		1.8. 
+			(SI)  1.8.1.
+			(NO)  1.8.2. 
+
+		1.9. 
+			(NO)  1.9.1. 
+
+2. 2
+	2.1. Sì
+		(SI) 2.1.1.  perchè non ho fame
+
+
+
+3. si
+4. no
+5. si
+
+6. si
+	(NO)  6.1 
+
+
+
+7. no
+
+	7.1. (NO) ci pensa mia moglie
+
+	7.2. si
+
+	7.3. no
+		(NO)  7.3.1. non c'è un supermercato che offre questo servizio ma non la ordinerei comunque
+		(SI)  7.3.2. 
+
+8. no
+
+	(SI)	  8.1. 
+		  8.2. 
+
+	(NO)  8.3. si, ci faccio caso
