@@ -48,13 +48,13 @@ EXTRA 4: Occupazione?
 		1.1. Per quale motivo?
 
 	- (SI') 
-		1.2. Che tipo di dieta ha seguito?
+		1.2. Che tipo di dieta ha seguito (ingrassante, dimagrente, ...)?
 
 		1.3. E' riuscita a seguirla in modo costante?
 			(NO)  1.3.1. Per quale motivo?
 
-		1.4. Era seguita da uno/a specialista (es. Nutrizionista, Dietologo, Dietista) ??
-			(SI) 1.4.1. Ogni quanto faceva un controllo?
+		1.4. Era seguita da uno/a specialista (es. Nutrizionista, Dietologo, Dietista) ?
+			(SI) 1.4.1. Ogni quanto faceva un controllo con lo specialista?
 			(SI) 1.4.2. La frequenza dei controlli le risultava adeguata?
 				(NO) 1.4.2.1 Per quale motivo?
 
@@ -77,11 +77,11 @@ EXTRA 4: Occupazione?
 	2.1. Le capita di dover saltare dei pasti durante la giornata?
 		(SI) 2.1.1.  Per quale motivo?
 
-3. Legge i componenti di un cibo prima di acquistarlo?
+3. Legge i componenti di un alimento prima di acquistarlo?
 4. Le piace passare del tempo in cucina per sperimentare nuove ricette?
 5. Le capita di dover gettare dei prodotti perchè si dimentica della loro scadenza?
 
-6. Beve regolarmente durante la giornata?
+6. Beve acqua regolarmente durante la giornata?
 	(NO)  6.1 Per quale motivo?
 
 
