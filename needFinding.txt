@@ -1,5 +1,11 @@
 TO EDIT:
-
+(Edoardo)
   ricorda scadenze
   ricorda bere
   pasti ricorrenti (da vedere cosa implementare in app)
+
+(Baldo)
+  sonno non monitorato
+  salto dei pasti( molti per motivi di tempo )
+  ricorda scadenze
+  pasti ricorrenti
