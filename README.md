@@ -1,8 +1,9 @@
 # StayFit
 IUM project 
 
-- [ ] Analisi competitors
-- [x] Interviste
-- [x] Questionario
-- [ ] Need Finding
-- [ ] Storyboards
+TO DO:
+  - [ ] Analisi competitors
+  - [x] Interviste
+  - [x] Questionario
+  - [ ] Need Finding
+  - [ ] Storyboards
