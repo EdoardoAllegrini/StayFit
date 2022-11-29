@@ -1,0 +1,5 @@
+TO EDIT:
+
+  ricorda scadenze
+  ricorda bere
+  pasti ricorrenti (da vedere cosa implementare in app)
