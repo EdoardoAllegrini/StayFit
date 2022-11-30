@@ -8,6 +8,6 @@ TO DO:
       - [ ] Sistemare le risposte delle interviste, per metterle tutte nello stesso formato
       - [ ] File con domande e i link a ogni intervista
   - [x] Questionario
-      - [ ] Albero delle domande del questionario
+      - [x] Albero delle domande del questionario
   - [ ] Need Finding
   - [ ] Storyboards
