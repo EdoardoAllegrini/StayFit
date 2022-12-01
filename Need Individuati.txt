@@ -1,0 +1,15 @@
+3 funzioni che contengono vari need, IN GRASSETTO sono evidenziati i need
+
+FUNZIONE 1
+sezione con le RICETTE, dove hai la possbilità di aggiungere filtri (quale pasto/se dietetico o no/
+nel caso sia dietetico puoi scegliere il tipo di pasto) e salvare le ricette in una sezione preferiti. 
+In questa sezione si possono AANOTARE anche le trovate in giro. Tra i filtri rientra anche quella 
+del PASTO VELOCE, così da sfruttare il task di quelli che non hanno tempo per mangiare durante il giorno
+
+FUNZIONE 2
+dopo spesa scannerizzo prodotti per VEDERE SCANDENZA, TENERNE TRACCIA e NOTIFICHE TOT GG PRIMA DELLA SCADENZA,
+possibilità dio inserire filtri 
+
+FUNZIONE 3
+notifiche ogni 2 h in cui si chiede se l'utente ha BEVUTO, con grafico finale ogni giorno in base alle risposte
+dell'utente
