@@ -1,0 +1,18 @@
+APP ANALIZZATE:
+	- MyFitnessPal -> non è possibile aggiungere il peso e nemmeno le foto dei progressi 
+					  fatti dagli utenti nel tempo. Risulta essere a pagamento e ciò inibisce 
+					  le funzionalità prinicipali dell'applicazione
+	-Lifesum: Mangiare Sano -> Propone ricette complicate da essere eseguite soprattutto perchè
+							   sono di lunga preparazione. Per ricercare il conteggio delle calorie
+							   quotidiane bisogna scavare a fondo nell'app.
+	-Yazio: Conta Calorie e Dieta -> consigli di dieta troppo duri ed esige di contare le calorie anche
+									 quando si è al ristorante.Provoca disturbi alimentari
+									 
+	-Contacalorie di Fatsecret -> utilizza un unico elenco per raggruppare i vari pasti senza distinzione
+								  Dati sballati per seguire la dieta, con valori ad esempio del sale esorbitanti
+	-Conta Calorie, Dieta e Digiuno -> utilizza dei pallini rossi per rilevare quantità di cibo da poter mangiare,
+									   quando compare bispgnma mangiare un piccola quantità di quell'alimento, il problema 
+									   è che appare anche vicino a frutta e prodotti sani, scaturendo sensi di colpa all'utente.
+									   Problema per inserire pietanze quotidiane, risulta essere poco accessibile. Annoiante perchè
+									   bisogna inserire di volta in volta i valori nutrizionali a mano.
+								  
