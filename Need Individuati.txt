@@ -1,15 +1,36 @@
-3 funzioni che contengono vari need, IN GRASSETTO sono evidenziati i need
+$ funzioni che contengono vari need, IN GRASSETTO sono evidenziati i need
 
-FUNZIONE 1
-sezione con le RICETTE, dove hai la possbilità di aggiungere filtri (quale pasto/se dietetico o no/
+FUNZIONE 1 (NEED Principale: Sezione in cui scrivere le ricette trovate)
+Ha una sezione dell'app che permette di ANNOTARE le ricette trovate in giro
+COSTRUZIONE DEL NEED:
+1) Tizio che sta con un amico, con ricette scritte su carta a cui cade acqua sul quadernino e si perdono, non ha più ricetta da cucinare all'amico
+2) L'amico gli dice di scaricarsi l'app per segnarsi li le ricette
+3) Tizio scrive le ricette sull'app
+
+FUNZIONE 2 (NEED Principale: Sezione che contiene moltissimi tipi di ricette)
+Sezione con le RICETTE, dove hai la possbilità di aggiungere filtri (quale pasto/se dietetico o no/
 nel caso sia dietetico puoi scegliere il tipo di pasto) e salvare le ricette in una sezione preferiti. 
-In questa sezione si possono AANOTARE anche le trovate in giro. Tra i filtri rientra anche quella 
-del PASTO VELOCE, così da sfruttare il task di quelli che non hanno tempo per mangiare durante il giorno
+Tra i filtri rientra anche quella  del PASTO VELOCE, così da sfruttare il task di quelli che non hanno tempo per mangiare durante il giorno
+COSTRUZIONE DEL NEED:
+1) Il tizio pranza con un suo amico e gli piace ciò che quest'ultimo ha cucinato
+2) Chiede dove ha trovato la ricetta e l'amico gli dice nell'app 
+3) Lui scarica l'app e scorre le ricette
+4) Tizio con cappello da chef, con l'app aperta, che cucina una nuova ricetta
 
-FUNZIONE 2
+FUNZIONE 3 (NEED Principale: Tenere traccia della scadenza di un prodotto)
 dopo spesa scannerizzo prodotti per VEDERE SCANDENZA, TENERNE TRACCIA e NOTIFICHE TOT GG PRIMA DELLA SCADENZA,
 possibilità dio inserire filtri 
+COSTRUZIONE DEL NEED:
+1) Tizio che apre il frigo e rosica per il prodotto scaduto (faccia triste) 
+2) Un amico gli consiglia di usare l'app per monitorare le scadenze (faccia dubbiosa)
+3) Il tizio torna a casa e scannerizza i prodotti nel frigo (faccia piatta)
+4) L'app gli manda una notifica TOT gg prima della scadenza del cibo (faccia felice)
 
-FUNZIONE 3
+FUNZIONE 4 (NEED Principale: Le persone vogliono bere di più)
 notifiche ogni 2 h in cui si chiede se l'utente ha BEVUTO, con grafico finale ogni giorno in base alle risposte
 dell'utente
+COSTRUZIONE DEL NEED:
+1) Tizio che ha la bocca secca
+2) Il medico gli dice di usare l'app per bere di più
+3) L'app gli manda una notifica che gli ricorda di bere
+4) A fine settimana apre il grafico per monitorare quanto ha bevuto
