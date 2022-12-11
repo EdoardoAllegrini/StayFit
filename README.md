@@ -2,6 +2,8 @@
 IUM project 
 
 TO DO:
+
+PRIMA REVISIONE
   - [x] Analisi competitors (Relazione)
   - [x] Interviste
       - [x] Relazione 
@@ -15,6 +17,6 @@ TO DO:
       - [x] Relazione
   - [ ] Storyboards
   
+ SECONDA REVISIONE
   - [ ] Prototipi
   
-  - [ ] Sviluppo app
