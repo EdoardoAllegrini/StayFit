@@ -15,7 +15,7 @@ PRIMA REVISIONE
       - [x] Foto dei dati delle risposte
   - [x] Need Finding
       - [x] Relazione
-  - [ ] Storyboards
+  - [x] Storyboards
   
  SECONDA REVISIONE
   - [ ] Prototipi
