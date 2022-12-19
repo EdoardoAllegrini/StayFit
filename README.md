@@ -19,4 +19,6 @@ PRIMA REVISIONE
   
  SECONDA REVISIONE
   - [ ] Prototipi
+  - [ ] Validazione/Testing
+
   
