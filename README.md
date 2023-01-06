@@ -29,5 +29,6 @@ PRIMA REVISIONE
   - [ ] Storyboard
   - [ ] File Excel Expert-Based
   - [ ] Foto di ogni iterazione (con nome)
+  - [ ] Pdf del design del protitpo cartaceo
 
   
