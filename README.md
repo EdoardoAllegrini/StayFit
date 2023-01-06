@@ -23,11 +23,11 @@ PRIMA REVISIONE
   
   
   COSA METTERE NELLO ZIP DA CONSEGNARE AL PROF 
-  - [] Domande interviste
-  - [] Risposte interviste
-  - [] Albero questionario
-  - [] Storyboard
-  - [] File Excel Expert-Based
-  - [] Foto di ogni iterazione (con nome)
+  - [ ] Domande interviste
+  - [ ] Risposte interviste
+  - [ ] Albero questionario
+  - [ ] Storyboard
+  - [ ] File Excel Expert-Based
+  - [ ] Foto di ogni iterazione (con nome)
 
   
