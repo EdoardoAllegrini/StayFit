@@ -1,34 +1,14 @@
 # StayFit
-IUM project 
+## Note: this project was conducted in Italian :).
+### Progetto universitario per l'esame di Interazione Uomo Macchina
+La gestione delle ricette e delle scadenze alimentari è un’attività importante per mantenere una dieta equilibrata e per evitare sprechi alimentari. Con l’aumento dell’utilizzo degli smartphone e delle applicazioni mobile, è diventato sempre più comune utilizzare questo tipo di strumenti per facilitare queste attività. Tuttavia, molte delle applicazioni esistenti presentano limitazioni o funzionalità aggiuntive non sempre necessarie. Il presente progetto ha l’obiettivo di sviluppare un prototipo di applicazione che offra una soluzione semplice e intuitiva per la gestione delle ricette e delle scadenze di prodotti alimentari.
 
-TO DO:
-
-PRIMA REVISIONE
-  - [x] Analisi competitors (Relazione)
-  - [x] Interviste
-      - [x] Relazione 
-      - [x] File con domande e tutte le risposte in ordine
-  - [x] Questionario
-      - [x] Relazione 
-      - [x] Trovare logo e cambiare descrizione, aggiungere anche tutela della privacy
-      - [x] Albero delle domande del questionario
-      - [x] Foto dei dati delle risposte
-  - [x] Need Finding
-      - [x] Relazione
-  - [x] Storyboards
-  
- SECONDA REVISIONE
-  - [x] Prototipi
-  - [x] Validazione/Testing
-  
-  
-  COSA METTERE NELLO ZIP DA CONSEGNARE AL PROF 
-  - [ ] Domande interviste
-  - [ ] Risposte interviste
-  - [ ] Albero questionario
-  - [ ] Storyboard
-  - [ ] File Excel Expert-Based
-  - [ ] Foto di ogni iterazione (con nome)
-  - [ ] Pdf del design del protitpo cartaceo
-
-  
+### Fasi del progetto eseguite
+1. Analisi dei competitors
+2. Interviste
+3. Questionario
+4. Need Evidenziati
+5. Task Trovati
+6. Implementazione tramite Prototyping
+7. Fattibilità dell'applicazione
+### Nel file StayFit_relazione.pdf sono descritti i dettagli delle fasi
