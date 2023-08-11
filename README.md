@@ -1,4 +1,4 @@
-# StayFit
+# StayFit     
 ## Note: this project was conducted in Italian :).
 ### Progetto universitario per l'esame di Interazione Uomo Macchina
 La gestione delle ricette e delle scadenze alimentari è un’attività importante per mantenere una dieta equilibrata e per evitare sprechi alimentari. Con l’aumento dell’utilizzo degli smartphone e delle applicazioni mobile, è diventato sempre più comune utilizzare questo tipo di strumenti per facilitare queste attività. Tuttavia, molte delle applicazioni esistenti presentano limitazioni o funzionalità aggiuntive non sempre necessarie. Il presente progetto ha l’obiettivo di sviluppare un prototipo di applicazione che offra una soluzione semplice e intuitiva per la gestione delle ricette e delle scadenze di prodotti alimentari.
